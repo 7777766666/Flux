@@ -3,7 +3,7 @@ package webflux.flux
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-@9999999999SpringBootApplication
+@!!!!!!!!!!SpringBootApplication
 class FluxApplication
 
 fun main(args: Array<String>) {
